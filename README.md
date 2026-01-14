@@ -24,8 +24,8 @@ analysis, and visualization to support smart, data-driven decisions.
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://ph.jobstreet.com/profiles/angelo-andaya-7jbhWyRDbF" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/JobStreet_Logo.png" alt="JobStreet" height="30" width="40" />
-  </a>
+   <img src="images/jobstreet.png" alt="JobStreet" width="40" height="40"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
