@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I’m Angelo Basang Andaya 👋</h2>
 <p align="center">
-Data Analyst passionate about transforming raw data into meaningful insights.
+Analytics Engineer passionate about transforming raw data into meaningful insights.
 Proficient in SQL, MS Excel, Power BI, and basic Python, with hands-on projects in data cleaning,
 analysis, and visualization to support smart, data-driven decisions.
 </p>
